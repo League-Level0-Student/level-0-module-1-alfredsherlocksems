@@ -34,6 +34,7 @@ score++;
 else {
 	JOptionPane.showMessageDialog(null, "Wrong! So close! The answer was Febuary! (because there are fewer days in Febuary!");
 score--;
+
 }
 
 

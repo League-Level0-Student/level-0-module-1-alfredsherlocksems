@@ -5,7 +5,7 @@
 
     void draw(){
 String yum = "ice cream";
-      text("ice cream " + yum + " " + yum + " banana", 50, 50);
+      text(yum + " " + yum +  " " + yum + " banana", 50, 50);
 
     }
                      
